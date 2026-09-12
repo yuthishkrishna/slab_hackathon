@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "domain": "jobs",
+  "selectors": {
+    "Indeed.resultLinks": "a[href]",
+    "LinkedIn.searchInput": "input[aria-label*=\"Search\" i]",
+    "LinkedIn.resultLinks": "a[href]",
+    "YC Companies.resultLinks": "a[href]"
+  },
+  "routines": {},
+  "rescans": [
+    {
+      "key": "Naukri.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T10:00:29.075Z"
+    },
+    {
+      "key": "Indeed.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:43:16.546Z"
+    },
+    {
+      "key": "Naukri.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:43:16.502Z"
+    },
+    {
+      "key": "Naukri.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:41:48.873Z"
+    },
+    {
+      "key": "Indeed.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:39:23.839Z"
+    },
+    {
+      "key": "Naukri.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:39:23.721Z"
+    },
+    {
+      "key": "Naukri.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:28:07.386Z"
+    },
+    {
+      "key": "Indeed.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:28:07.270Z"
+    },
+    {
+      "key": "Indeed.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:23:39.465Z"
+    },
+    {
+      "key": "Naukri.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:23:39.090Z"
+    },
+    {
+      "key": "Indeed.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:12:40.079Z"
+    },
+    {
+      "key": "Naukri.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:12:39.944Z"
+    },
+    {
+      "key": "Naukri.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:01:59.834Z"
+    },
+    {
+      "key": "Naukri.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T08:54:20.587Z"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "selectors": {
+    "eventCard": ".event-card"
+  },
+  "routines": {}
+}
