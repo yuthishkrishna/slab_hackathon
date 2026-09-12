@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SLAB Agent Console</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="hero">
+            <div class="eyebrow"><span class="status-dot"></span> SLAB / MULTI-AGENT CONSOLE</div>
+            <h1>One prompt.<br><span>Three useful directions.</span></h1>
+            <p>Research, discover roles, or plan a night out through one focused command center.</p>
+            <div class="platform-strip" aria-label="Connected platforms">
+                <span>BOOKMYSHOW</span><span>DISTRICT</span><span>PAYTM</span><span>LINKEDIN</span><span>NAUKRI</span><span>ARXIV</span>
+            </div>
+        </header>
+
+        <main>
+            <section class="command-panel" aria-labelledby="command-title">
+                <div class="section-label" id="command-title">01 / Give SLAB a task</div>
+                <div class="input-section">
+                    <label class="sr-only" for="promptInput">Your request</label>
+                    <input type="text" id="promptInput" placeholder="Try: find Spider-Man tickets near Bengaluru" autocomplete="off">
+                    <button id="runBtn" type="button"><span>Run agent</span><span aria-hidden="true">&rarr;</span></button>
+                </div>
+                <div class="suggestions" aria-label="Example prompts">
+                    <button class="suggestion" type="button" data-prompt="Find recent research on human-AI collaboration">Research</button>
+                    <button class="suggestion" type="button" data-prompt="Find jobs for product designer">Jobs</button>
+                    <button class="suggestion" type="button" data-prompt="Find tickets for Spider-Man">Tickets</button>
+                </div>
+            </section>
+
+            <section class="output-section" aria-labelledby="output-title">
+                <div class="terminal-header">
+                    <div class="window-dots" aria-hidden="true"><span class="dot red"></span><span class="dot yellow"></span><span class="dot green"></span></div>
+                    <span class="title" id="output-title">Live agent output</span>
+                    <span class="live-state" id="liveState">READY</span>
+                </div>
+                <div class="terminal-body" id="outputConsole" aria-live="polite">
+                    <p class="system-msg">&gt; System ready. Waiting for your first request...</p>
+                </div>
+            </section>
+        </main>
+        <footer><span>Built for deliberate automation</span><span>Local session / v1.0</span></footer>
+    </div>
+    <script src="ui.js"></script>
+</body>
+</html>

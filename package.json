@@ -1,0 +1,18 @@
+{
+  "name": "slab-3-in-1-agent",
+  "version": "1.0.0",
+  "description": "Multi-domain self-learning browser agent",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "install:browsers": "playwright install chromium"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "playwright": "^1.63.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.2"
+  }
+}
