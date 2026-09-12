@@ -1,0 +1,7 @@
+{
+  "selectors": {
+    "searchInput": "input[name=\"query\"]",
+    "searchButton": "button.button.is-small.is-cul-darker"
+  },
+  "routines": {}
+}

@@ -1,0 +1,6 @@
+{
+  "selectors": {
+    "jobCard": ".job-card"
+  },
+  "routines": {}
+}

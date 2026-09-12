@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "domain": "academic_adapter",
+  "selectors": {
+    "arXiv.searchInput": "input[name=\"query\"]",
+    "PubMed.searchInput": "input[name=\"term\"]",
+    "PubMed.resultLinks": "a[href]"
+  },
+  "routines": {},
+  "rescans": [
+    {
+      "key": "arXiv.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:59:52.765Z"
+    },
+    {
+      "key": "Crossref.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:59:52.542Z"
+    },
+    {
+      "key": "arXiv.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:46:33.738Z"
+    },
+    {
+      "key": "Crossref.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:46:30.399Z"
+    },
+    {
+      "key": "arXiv.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:41:04.729Z"
+    },
+    {
+      "key": "Crossref.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:41:04.378Z"
+    },
+    {
+      "key": "arXiv.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:40:38.280Z"
+    },
+    {
+      "key": "Crossref.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:40:37.974Z"
+    },
+    {
+      "key": "Crossref.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:40:15.607Z"
+    },
+    {
+      "key": "arXiv.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:40:15.140Z"
+    },
+    {
+      "key": "arXiv.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:38:58.365Z"
+    },
+    {
+      "key": "Crossref.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:38:57.812Z"
+    },
+    {
+      "key": "Crossref.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:28:35.974Z"
+    },
+    {
+      "key": "arXiv.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:28:35.903Z"
+    },
+    {
+      "key": "arXiv.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:21:55.235Z"
+    },
+    {
+      "key": "Crossref.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:21:54.057Z"
+    },
+    {
+      "key": "Crossref.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T08:55:14.601Z"
+    },
+    {
+      "key": "arXiv.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T08:55:13.347Z"
+    },
+    {
+      "key": "Crossref.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T08:46:47.611Z"
+    },
+    {
+      "key": "arXiv.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T08:46:46.832Z"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "domain": "tickets",
+  "selectors": {
+    "Paytm Movies.resultLinks": "a[href]",
+    "District.searchInput": "input[placeholder*=\"Search\" i]"
+  },
+  "routines": {},
+  "rescans": [
+    {
+      "key": "Ixigo.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T10:05:22.841Z"
+    },
+    {
+      "key": "District.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T10:05:22.686Z"
+    },
+    {
+      "key": "BookMyShow.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T10:05:22.380Z"
+    },
+    {
+      "key": "District.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T10:00:56.692Z"
+    },
+    {
+      "key": "Ixigo.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T10:00:56.522Z"
+    },
+    {
+      "key": "BookMyShow.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T10:00:56.294Z"
+    },
+    {
+      "key": "District.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:57:27.886Z"
+    },
+    {
+      "key": "Ixigo.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:57:26.818Z"
+    },
+    {
+      "key": "BookMyShow.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:57:26.337Z"
+    },
+    {
+      "key": "Ixigo.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:44:51.120Z"
+    },
+    {
+      "key": "District.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:44:51.051Z"
+    },
+    {
+      "key": "BookMyShow.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:44:50.610Z"
+    },
+    {
+      "key": "District.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:41:30.679Z"
+    },
+    {
+      "key": "Ixigo.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:41:30.553Z"
+    },
+    {
+      "key": "BookMyShow.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:41:30.352Z"
+    },
+    {
+      "key": "District.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:39:48.739Z"
+    },
+    {
+      "key": "Ixigo.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:39:48.708Z"
+    },
+    {
+      "key": "BookMyShow.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:39:48.475Z"
+    },
+    {
+      "key": "District.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:29:01.897Z"
+    },
+    {
+      "key": "Ixigo.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:29:01.131Z"
+    }
+  ]
+}
