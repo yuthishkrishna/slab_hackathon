@@ -2,6 +2,9 @@
 
 A local, read-only research, ticket, and career search console built with Node.js and Playwright. Each platform runs in its own browser page concurrently. Results are normalized, deduplicated, and returned with source health so a blocked or changed site does not stop the other searches.
 
+## Extract
+extract the node_modules zip file
+
 ## Run
 
 ```bash
